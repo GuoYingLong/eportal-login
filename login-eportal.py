@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 import requests, time, json,sys
+#
+#  @author GuoYingLong
+#  @create 2020/2/18 9:39
+# 
 
 # 认证服务器访问的IP地址
 IP = 'http://10.200.200.248'
